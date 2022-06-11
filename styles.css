@@ -17,7 +17,7 @@
 body{
     margin:0;
     color: var(--text-black);
-    line-hieght: 130%;
+    line-height: 130%;
     background-color : var(--off-white);
 
 }
@@ -27,7 +27,7 @@ strong{
 
 /* header part*/
 .top-bar{
-    background-colour: var(--white);
+    background-color: var(--white);
     border-bottom: 1px solid var(--border-gray); 
     padding:0.75rem 1rem;
     position: sticky;
